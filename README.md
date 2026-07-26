@@ -22,7 +22,3 @@ Open `http://localhost:8000`.
 ## Screenshot
 
 ![Dynamic landing page](docs/screenshots/landing-page.png)
-
-## Project history
-
-The archive contained the Udacity starter version and several submissions. Version 1.2 had the most complete documentation. The final repository keeps its layout and course license while replacing hard-coded section counts, implicit global events, and ineffective timer handling with a dynamic implementation.
